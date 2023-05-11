@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+nav {
+    background: #234465;
+    padding: 15px;
+
+}
+
+nav li {
+    text-align: center;
+    padding: 0 20px;
+    display: inline-block;
+}
+
+/*nav ul li{*/
+/*    display: block;*/
+/*    padding: 10px 20px;*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+table, td, th {
+    border: 1px solid #000000;
+}
+
+.result {
+    width: 400px;
+    text-align: right;
+    padding-right: 5px;
+}
